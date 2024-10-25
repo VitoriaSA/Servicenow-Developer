@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
         <alternate_portal/>
-        <css_variables/>
+        <css_variables>$brand-primary:#ED127C;
+$body-bg:#DDEEFC;
+$state-success-text:#181A1F;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#E9ECEF;
+$text-color:#181A1F;
+$sp-logo-margin-y:2px;
+$navbar-inverse-link-hover-color:#ED127C;
+$panel-bg:#ffffff;
+$brand-success:#51ae00;
+$navbar-inverse-bg:#f4f6f7;
+$brand-warning:#F0E000;
+$brand-danger:#E42338;
+$sp-tagline-color:#181A1F;
+$navbar-inverse-link-color:#302F2F;
+$brand-info:#38aaf4;
+$link-color:#ED127C;
+$sp-logo-margin-x:15px;
+$btn-default-bg:#ffffff;
+$text-muted:#656E81;
+</css_variables>
         <dark_theme/>
         <default>false</default>
         <enable_ais>false</enable_ais>
         <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
-        <homepage display_value="ec_home">3cd32c40c7a83110b1c6677703c26062</homepage>
+        <homepage display_value="mf_home">ce56d510c3e5121099d0fd0ed40131b1</homepage>
         <icon/>
         <inactive>false</inactive>
         <kb_knowledge_base/>
@@ -29,15 +49,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-25 14:52:28</sys_created_on>
         <sys_id>3712599cc3a5121099d0fd0ed40131a7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_name>MedFlow Service Portal</sys_name>
         <sys_package display_value="Developer" source="x_657306_developer">accf0dd8c3a5121099d0fd0ed4013165</sys_package>
         <sys_policy/>
         <sys_scope display_value="Developer">accf0dd8c3a5121099d0fd0ed4013165</sys_scope>
         <sys_update_name>sp_portal_3712599cc3a5121099d0fd0ed40131a7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-25 14:56:59</sys_updated_on>
-        <theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme>
+        <sys_updated_on>2024-10-25 15:26:46</sys_updated_on>
+        <theme display_value="MF Theme">cbf71994c3e5121099d0fd0ed40131d3</theme>
         <title>MedFlow Service Portal</title>
         <ts_index_group/>
         <url_suffix>mfp</url_suffix>

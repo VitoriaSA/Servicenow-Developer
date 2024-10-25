@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description>Bem vindo(a) ao Portal, como posso te ajudar hoje?</short_description>
+        <size>md</size>
+        <sp_column display_value="1">ff86f11cc369121099d0fd0ed4013109</sp_column>
+        <sp_widget display_value="Homepage Search User Name">34a93510c3a9121099d0fd0ed4013186</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 17:44:20</sys_created_on>
+        <sys_id>51f9b9dcc369121099d0fd0ed4013196</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Olá,</sys_name>
+        <sys_package display_value="Developer" source="x_657306_developer">accf0dd8c3a5121099d0fd0ed4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer">accf0dd8c3a5121099d0fd0ed4013165</sys_scope>
+        <sys_update_name>sp_instance_ais_51f9b9dcc369121099d0fd0ed4013196</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 18:31:26</sys_updated_on>
+        <title>Olá,</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "{title: 'Buscar no portal'}",
+		"displayValue": "{title: 'Buscar no portal'}"
+	},
+	"text_color": {
+		"value": "#FFFFFF",
+		"displayValue": "#FFFFFF"
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="delete_multiple" query="documentkey=51f9b9dcc369121099d0fd0ed4013196"/>
+</record_update>

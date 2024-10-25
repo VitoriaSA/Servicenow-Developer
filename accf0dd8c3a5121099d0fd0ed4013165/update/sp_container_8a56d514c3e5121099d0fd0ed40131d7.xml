@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#ED127C</background_color>
+        <background_image/>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>mobile-banner</class_name>
+        <container_class_name/>
+        <name>MedFlow Homepage  - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="mf_home">ce56d510c3e5121099d0fd0ed40131b1</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 15:08:44</sys_created_on>
+        <sys_id>8a56d514c3e5121099d0fd0ed40131d7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>MedFlow Homepage  - Container 1</sys_name>
+        <sys_package display_value="Developer" source="x_657306_developer">accf0dd8c3a5121099d0fd0ed4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer">accf0dd8c3a5121099d0fd0ed4013165</sys_scope>
+        <sys_update_name>sp_container_8a56d514c3e5121099d0fd0ed40131d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 17:28:26</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
