@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sp_css_include display_value="Change font to Inter">e8227d9dc321121099d0fd0ed4013146</sp_css_include>
+        <sp_theme display_value="MF Theme">cbf71994c3e5121099d0fd0ed40131d3</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 19:45:19</sys_created_on>
+        <sys_id>fe62fdddc321121099d0fd0ed401317a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Change font to Inter.MF Theme</sys_name>
+        <sys_package display_value="Developer" source="x_657306_developer">accf0dd8c3a5121099d0fd0ed4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer">accf0dd8c3a5121099d0fd0ed4013165</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_fe62fdddc321121099d0fd0ed401317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 19:45:35</sys_updated_on>
+    </m2m_sp_theme_css_include>
+</record_update>

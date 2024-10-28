@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>#homepage-search h2{&#13;
+  font-family:'Inter';&#13;
+}&#13;
+/* Change H2 Font */&#13;
+div.panel-heading &gt; h2 {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+/* Change H3 Font */&#13;
+h3,h2,h1 {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+.panel-heading {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+ul,li {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+.panel-body {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+p {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+body {&#13;
+  font-family:'Inter';&#13;
+}&#13;
+</css>
+        <name>Change font to Inter</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 19:45:12</sys_created_on>
+        <sys_id>9f22b911c361121099d0fd0ed4013124</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change font to Inter</sys_name>
+        <sys_package display_value="Developer" source="x_657306_developer">accf0dd8c3a5121099d0fd0ed4013165</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer">accf0dd8c3a5121099d0fd0ed4013165</sys_scope>
+        <sys_update_name>sp_css_9f22b911c361121099d0fd0ed4013124</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 19:45:12</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_css>
+</record_update>
